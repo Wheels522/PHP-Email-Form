@@ -30,7 +30,7 @@ $my_email = "admin@rwbaker.com";
 /*
 Optional.  Enter a From: email address.  By default, the email you get from the script will show the visitor's email address as the From: address.  In most cases this is desirable.  On the majority of setups this won't be a problem but a minority of hosts insist that the From: address must be from a domain on the server.  
 */
-$from_email = "";
+$from_email = "coltona82012@gmail.com";
 
 /* Subject line */
 $subject = "Contact from RWBAKER.COM";
